@@ -1,1 +1,3 @@
 Hei, jeg heter Sara og er 21 år
+init
+init
